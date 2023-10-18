@@ -1,0 +1,10 @@
+C:\Users\Jeison\Documents\CODE'S\.NET\productManagement\productManagement\bin\Debug\productManagement.exe.config
+C:\Users\Jeison\Documents\CODE'S\.NET\productManagement\productManagement\bin\Debug\productManagement.exe
+C:\Users\Jeison\Documents\CODE'S\.NET\productManagement\productManagement\bin\Debug\productManagement.pdb
+C:\Users\Jeison\Documents\CODE'S\.NET\productManagement\productManagement\obj\Debug\productManagement.csproj.AssemblyReference.cache
+C:\Users\Jeison\Documents\CODE'S\.NET\productManagement\productManagement\obj\Debug\productManagement.Form1.resources
+C:\Users\Jeison\Documents\CODE'S\.NET\productManagement\productManagement\obj\Debug\productManagement.Properties.Resources.resources
+C:\Users\Jeison\Documents\CODE'S\.NET\productManagement\productManagement\obj\Debug\productManagement.csproj.GenerateResource.cache
+C:\Users\Jeison\Documents\CODE'S\.NET\productManagement\productManagement\obj\Debug\productManagement.csproj.CoreCompileInputs.cache
+C:\Users\Jeison\Documents\CODE'S\.NET\productManagement\productManagement\obj\Debug\productManagement.exe
+C:\Users\Jeison\Documents\CODE'S\.NET\productManagement\productManagement\obj\Debug\productManagement.pdb
